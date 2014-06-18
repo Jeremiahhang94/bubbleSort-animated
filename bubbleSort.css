@@ -15,6 +15,26 @@ body
 	margin: 0 auto 0 auto;	
 }
 
+	#description
+	{
+		width: 400px;
+		height: 500px;
+		float: left;
+
+	}
+	
+		#description h1
+		{
+			font-size: 34pt;
+			margin-top: 50px;
+		}
+		
+		#description p i
+		{
+			font-size: 10pt;
+			line-height: 17px;
+		}
+
 	.stage
 	{
 		width: 500px;
